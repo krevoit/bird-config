@@ -1,11 +1,11 @@
 Action:
-207968:[ASN]:X Prepend X
+38041:[ASN]:X Prepend X
 
-207968:207968:1 Announce to upstream + peer
-207968:207968:2 Announce to peer
+38041:1 Announce to upstream + peer
+38041:2 Announce to peer
 
 Informational:
-207968:1:1 Learned from downstream
-207968:1:2 Learned from peer
-207968:1:3 Learned from upstream
-207968:1:4 Learned from routeserver
+38041:1:1 Learned from downstream
+38041:1:2 Learned from peer
+38041:1:3 Learned from upstream
+38041:1:4 Learned from routeserver
